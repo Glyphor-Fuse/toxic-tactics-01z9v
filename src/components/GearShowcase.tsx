@@ -1,7 +1,7 @@
 
 import { useState } from 'react';
 import { motion, AnimatePresence } from "framer-motion";
-import { Zap, Shield, Radio, Crosshair, Cpu, Battery } from "lucide-react";
+import { Zap, Shield, Radio, Crosshair, Cpu, Battery, Target } from "lucide-react";
 
 // Types for our gear hotspots
 type GearPoint = {
